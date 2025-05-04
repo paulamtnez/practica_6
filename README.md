@@ -1,2 +1,2 @@
 # practica_6
-Práctica 6. Reproductibilidad en análisis de datos (CUCC). Profesor: Jesús Sierralaya. Alumnas: Uxía Martínez y Paula Martínez
+Práctica 6. Reproductibilidad en análisis de datos (CUCC). Profesor: Jesús Sierralaya. 
